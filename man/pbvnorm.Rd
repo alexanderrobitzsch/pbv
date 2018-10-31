@@ -1,5 +1,5 @@
 %% File Name: pbvnorm.Rd
-%% File Version: 0.09
+%% File Version: 0.12
 
 \name{pbvnorm}
 \alias{pbvnorm}
@@ -67,8 +67,9 @@ West, G. (2005). Better approximations to cumulative normal functions.
 %% ~Make other sections like Warning with \section{Warning }{....} ~
 
 \seealso{
-See \code{\link[pbivnorm:pbivnorm]{pbivnorm::pbivnorm}} and
-\code{mnormt::biv.nt.prob} for alternative implementations (Genz, 1992)
+See \code{\link[pbivnorm:pbivnorm]{pbivnorm::pbivnorm}} in the \CRANpkg{pbivnorm} package 
+and \code{mnormt::biv.nt.prob} in the \CRANpkg{mnormt} package 
+for alternative implementations (Genz, 1992)
 which are not (yet) completely vectorized.
 }
 
