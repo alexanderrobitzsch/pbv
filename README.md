@@ -18,9 +18,9 @@ The CRAN version can be installed from within R using:
 utils::install.packages("pbv")
 ```
 
-#### GitHub version `pbv` 0.3-6 (2018-12-05)
+#### GitHub version `pbv` 0.3-7 (2019-05-08)
 
-[![](https://img.shields.io/badge/github%20version-0.3--6-orange.svg)](https://github.com/alexanderrobitzsch/pbv)&#160;&#160;
+[![](https://img.shields.io/badge/github%20version-0.3--7-orange.svg)](https://github.com/alexanderrobitzsch/pbv)&#160;&#160;
 
 The version hosted [here](https://github.com/alexanderrobitzsch/pbv) is the development version of `pbv`. 
 The GitHub version can be installed using `devtools` as:
