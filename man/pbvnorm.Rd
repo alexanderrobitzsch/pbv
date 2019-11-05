@@ -1,5 +1,5 @@
 %% File Name: pbvnorm.Rd
-%% File Version: 0.31
+%% File Version: 0.34
 
 \name{pbvnorm}
 \alias{pbvnorm}
@@ -59,12 +59,13 @@ should be calculated}
 %}
 
 \value{
-Vector
+A vector
 }
 
 \references{
 Drezner, Z., & Wesolowsky, G. O. (1990). On the computation of the bivariate normal
 integral. \emph{Journal of Statistical Computation and Simulation, 35}(1-2), 101-107.
+\doi{10.1080/00949659008811236}
 
 Genz, A. (1992). Numerical computation of multivariate normal probabilities.
 \emph{Journal of Computational and Graphical Statistics, 1}(2), 141-149.
@@ -72,6 +73,7 @@ Genz, A. (1992). Numerical computation of multivariate normal probabilities.
 West, G. (2005). Better approximations to cumulative normal functions.
 \emph{Wilmott Magazine, 9}, 70-76.
 }
+%% Genz (1992) \doi{10.2307/1390838}
 
 %\author{
 %%  ~~who you are~~

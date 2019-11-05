@@ -1,8 +1,8 @@
 Package: pbv
 Type: Package
 Title: Probabilities for Bivariate Normal Distribution
-Version: 0.3-14
-Date: 2019-05-09 12:00:33
+Version: 0.4-2
+Date: 2019-11-05 15:30:00
 Author: Alexander Robitzsch [aut,cre] (<https://orcid.org/0000-0002-8226-3132>)
 Maintainer: Alexander Robitzsch <robitzsch@ipn.uni-kiel.de>
 Description: 
@@ -21,4 +21,3 @@ URL:
     https://github.com/alexanderrobitzsch/pbv,
     https://sites.google.com/site/alexanderrobitzsch2/software
 License: GPL (>= 2)
-RoxygenNote: 6.1.1
