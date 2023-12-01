@@ -6,7 +6,7 @@ Please always provide a minimal dataset, necessary to demonstrate the problem,
 a minimal runnable code necessary to reproduce the issue, which can be run on the given dataset, and
 all necessary information on the used librarys, the R version, and the OS it is run on, perhaps a sessionInfo().
 
-#### CRAN version `pbv` 0.4-22 (2020-05-11)
+#### CRAN version `pbv` 0.5-47 (2023-11-30)
 
 
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version-last-release/pbv)](https://cran.r-project.org/package=pbv)
@@ -20,9 +20,9 @@ The CRAN version can be installed from within R using:
 utils::install.packages("pbv")
 ```
 
-#### GitHub version `pbv` 0.5-44 (2023-08-10)
+#### GitHub version `pbv` 0.6-1 (2023-12-01)
 
-[![](https://img.shields.io/badge/github%20version-0.5--44-orange.svg)](https://github.com/alexanderrobitzsch/pbv)&#160;&#160;
+[![](https://img.shields.io/badge/github%20version-0.6--1-orange.svg)](https://github.com/alexanderrobitzsch/pbv)&#160;&#160;
 
 The version hosted [here](https://github.com/alexanderrobitzsch/pbv) is the development version of `pbv`. 
 The GitHub version can be installed using `devtools` as:
